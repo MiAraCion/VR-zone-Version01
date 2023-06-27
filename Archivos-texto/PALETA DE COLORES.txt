@@ -1,0 +1,42 @@
+
+PALET 1:
+
+
+#363753
+#DFE3EE
+#FEFEFE
+#5CD2C6
+
+
+PALETA 7: 
+#0B1629
+#19369C
+#8CC4DF
+#E2FF65
+
+
+
+Interfaces_de_Pagina:
+-diferentes interfaces que existen en la pagina.
+
+
+secciones: 
+-secciones de las interfaces de la pagina, entra desde el header hasta el footer
+
+
+
+comandos: 
+dicta-secciones: 
+-lista las secciones que hay en la pagina.
+
+
+ubicame-en: 
+-comando para ubicar en cierto lugar de la interfas de la pagina.
+
+
+listame-contenido-de seccion.
+-lista que elementos tiene la seccion
+
+leeme-conteido:
+-lee el contenido de donde estas ubicado.
+

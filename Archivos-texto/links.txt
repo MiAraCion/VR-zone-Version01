@@ -1,0 +1,20 @@
+meta-Oculus-quest: 
+link de compra: https://www.meta.com/quest/products/quest-2/?utm_content=c3356676-aa19-471b-bf86-73895fbaa0eb&utm_placement=digitalstorebanner
+
+Apple-vision-pro: 
+link de informacion: https://www.applesfera.com/nuevo/apple-vision-pro-caracteristicas-precio-ficha-tecnica
+
+play-station:
+link de compra: 
+
+steamVR:
+link  de compra: 
+
+buscar autores que respalden mis ideas, narrador de  pagina web, incrementar la fuente de letra, aplicar un boton modo oscuro.
+
+
+link-noticias:
+-https://elcomercio.pe/noticias/realidad-virtual/
+
+
+OVERLAY-APLICAR CSS

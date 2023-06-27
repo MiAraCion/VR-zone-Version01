@@ -1,0 +1,13 @@
+
+body{
+
+	background:#363753;
+}
+
+
+.logo{
+	width: 100px;
+	height: 100px;
+	background-color: #5CD2C6; 
+	clip-path: polygon(96% 23%, 47% 100%, 14% 43%, 40% 51%, 47% 77%, 64% 36%);
+}
